@@ -40,7 +40,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/ketan-sharma-a40432203](https://www.linkedin.com/in/adityarana0902/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_.ketan02._" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/ketan-sharma-a40432203](https://www.linkedin.com/in/ketan-sharma-a40432203)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="_.ketan02._" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.ketan02._?igsh=MWcwNGg4YmcxbTlkZA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ketan02._" height="30" width="40" /></a>
 </p>
 <br>
