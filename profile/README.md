@@ -33,7 +33,6 @@
 
 - 💬 Ask me about **Java, Python, Numpy and NodeJS**
 
-- 📫 How to reach me **ketansharma2005@gmail.com**)
 
 - ⚡ Fun fact **I think I'm Tech nerd**
 
